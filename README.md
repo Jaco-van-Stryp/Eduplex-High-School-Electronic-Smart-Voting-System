@@ -1,11 +1,11 @@
-# Eduplex-High-School-Electronic-Smart-Voting-System
+# Eduplex High School Electronic Smart Voting System
 This application was developed for Eduplex Highschool
 
 The goal of this application was to create a way where all students could come together and vote
 for the students they want to see become their leaders. 
 This program was designed to run smoothly on any computer or server you throw at it.
 Every Computer has a copy of the executable file while the main database has the server data. 
-Processing is done afterwards to prevent the system crashing while everyone is voting.
+Processing is done afterwards to prevent the system from crashing while everyone is voting.
 NOTE - This application was designed for Eduplex High School by an Eduplex High School Student
 
 # INSTALLATION INSTRUCTIONS
@@ -37,7 +37,7 @@ GETIP
 
 You need to add pictures of students with their names as file names in the "Database Files/Pictures" Folder
 Click on NOMINATE and click auto-nominate
-All students will now be nominated and the other students can vote by clicking on vote and entering the required information
+All students will now be nominated and the other students can vote by clicking on VOTE and entering the required information
 
 In the Administrator Information Section, there are settings and all kinds of information to determine what your students can and can not do!
 
