@@ -9,7 +9,7 @@ Processing is done afterwards to prevent the system crashing while everyone is v
 
 NOTE - This application was designed for Eduplex High School by an Eduplex High School Student
 
-INSTALATION INSTRUCTIONS
+#INSTALATION INSTRUCTIONS
 
 In the folder "Final Executables" you will find a folder called "Database Files"
 
