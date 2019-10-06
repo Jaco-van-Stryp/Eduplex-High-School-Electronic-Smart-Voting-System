@@ -1,5 +1,5 @@
 # Eduplex High School Electronic Smart Voting System
-This application was developed for Eduplex Highschool
+This application was developed for Eduplex High School
 
 The goal of this application was to create a way where all students could come together and vote
 for the students they want to see become their leaders. 
